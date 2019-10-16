@@ -1,5 +1,5 @@
 # Setup-Files
-<img src="https://media.giphy.com/media/MwOhcJ92qc30Q/giphy.gif"/>
+<img src="https://media.giphy.com/media/yEMONcnJvnDRS/giphy.gif"/>
 
 ## React
 This folder include setup files for styled-components, styled-modern-normalize, ESlint, prettier and gitignore.
