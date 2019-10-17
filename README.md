@@ -16,6 +16,8 @@ ADD FIXES FOR STYLED COMPONENTS IN NEXT.
 - Create folder for your project and "cd" into it.
 - Run "yarn init"
 - Run "yarn add react react-dom next" to install Next.
+- Add the content in the files from the next-folder to your project.
+- Run "yarn" to install the dependencies in the package.json.
 - TO BE CONTINUED.
 
 ## Gatsby
