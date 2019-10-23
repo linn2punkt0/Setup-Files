@@ -5,6 +5,12 @@
 This folder include setup files for styled-components, styled-modern-normalize, ESlint, prettier and gitignore.
 
 ### Installation
+- Run "npx create-react-app my-app".
+- Copy the content from the setup-files and paste into files with the same same in your directory.
+- Run "npm install".
+
+
+
 ADD INSTALLATION GUIDE.
 
 ## Next
